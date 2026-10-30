@@ -20,7 +20,3 @@ public class Account {
     private String currency;
     private double balance;
 }
-
-enum AccountStatus {
-    ACTIVE, BLOCKED
-}
